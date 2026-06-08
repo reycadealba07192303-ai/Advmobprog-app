@@ -34,13 +34,16 @@ flutter pub get
 flutter run
 ```
 
+**Production API (any network / SIM):** https://advmobprog-app.onrender.com
+
 Set `estrellon_mobile/.env`:
 
 ```env
-HOST=http://localhost:5000
-# Physical Android device (same Wi-Fi as PC):
-ANDROID_HOST=http://YOUR_PC_LAN_IP:5000
+HOST=https://advmobprog-app.onrender.com
+ANDROID_HOST=https://advmobprog-app.onrender.com
 ```
+
+For local dev only, use `http://localhost:5000` and your PC LAN IP instead.
 
 ## Demo login (MongoDB)
 
