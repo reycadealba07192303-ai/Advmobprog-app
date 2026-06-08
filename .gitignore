@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Flutter/Dart
+.dart_tool/
+.pub-cache/
+.pub/
+build/
+**/ios/Flutter/.last_build_id
+.flutter-plugins-dependencies
+
+# IDE
+.idea/
+.qodo/
+*.iml
+
+# Secrets
+**/*firebase-adminsdk*.json
+**/config/firebase-service-account.json
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db

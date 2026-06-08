@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "939363043885",
+    "project_id": "admovprog-firebase",
+    "storage_bucket": "admovprog-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939363043885:android:780184a446178f6ac346a4",
+        "android_client_info": {
+          "package_name": "com.example.dealba_admovprog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD17k7pJ9yikU6eHfnsOxGby7Qg6V0rsqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939363043885:android:7c3c05a39fe45f42c346a4",
+        "android_client_info": {
+          "package_name": "com.example.estrellon_advmobprog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD17k7pJ9yikU6eHfnsOxGby7Qg6V0rsqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
