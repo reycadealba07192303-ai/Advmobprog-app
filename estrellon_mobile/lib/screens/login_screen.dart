@@ -169,7 +169,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         ),
                         SizedBox(height: 8.h),
                         CustomText(
-                          text: 'Sign in to continue to Estrellon',
+                          text: 'Sign in to continue to Raguini',
                           fontSize: 14.sp,
                           color: AppColors.textSecondary,
                         ),

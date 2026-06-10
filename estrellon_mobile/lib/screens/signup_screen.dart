@@ -174,7 +174,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                         ),
                         SizedBox(height: 8.h),
                         CustomText(
-                          text: 'Join Estrellon and start sharing your stories',
+                          text: 'Join Raguini and start sharing your stories',
                           fontSize: 14.sp,
                           color: AppColors.textSecondary,
                         ),

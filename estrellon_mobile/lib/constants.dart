@@ -25,6 +25,6 @@ String resolveHost() {
 late String host;
 
 class Constants {
-  static const String appTitle = 'Estrellon';
+  static const String appTitle = 'Raguini';
   static const String fontFamily = 'Poppins';
 }

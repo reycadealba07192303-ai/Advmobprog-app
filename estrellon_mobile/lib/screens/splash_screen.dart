@@ -169,7 +169,7 @@ class _SplashScreenState extends State<SplashScreen>
                       ),
                       SizedBox(height: 28.h),
                       CustomText(
-                        text: 'Estrellon',
+                        text: 'Raguini',
                         fontSize: 32.sp,
                         fontWeight: FontWeight.w700,
                         color: AppColors.textPrimary,

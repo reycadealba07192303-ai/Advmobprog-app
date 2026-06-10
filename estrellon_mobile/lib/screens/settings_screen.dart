@@ -162,7 +162,7 @@ class SettingsScreen extends StatelessWidget {
                 SizedBox(height: 12.h),
                 _AboutRow(
                   label: 'App Name',
-                  value: 'Estrellon',
+                  value: 'Raguini',
                   palette: palette,
                 ),
               ],
